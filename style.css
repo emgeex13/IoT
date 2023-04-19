@@ -6,6 +6,7 @@
   font-family: "Poppins", sans-serif;
 }
 .source {
+  display: none;
   top: 1rem;
   left: 1rem;
   position: absolute;
